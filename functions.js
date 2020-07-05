@@ -1,2 +1,2 @@
 function rocks()
-{getElementById("doop").innerHTML="ROCKS!";}
+{document.getElementById("doop").innerHTML="ROCKS!";}
